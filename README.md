@@ -349,17 +349,4 @@ Submit a pull request and help improve this resource
 
 ---
 
-## Final Note
-
-Google Dorking is powerful—but with great power comes responsibility.
-
-Use it to:
-
-* Improve security
-* Learn OSINT
-* Audit your own systems
-
-Not to exploit others.
-
----
 
